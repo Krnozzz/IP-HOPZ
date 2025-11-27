@@ -78,7 +78,7 @@ All packaged in a simple tool with beginner-friendly configuration and advanced 
 
 ### Termux Full Install and Setup 
 ```
-apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy netcat-openbsd curl && git clone https://github.com/Krnozzz/IP-HOP.git && cd IP-HOP && bash setup.sh && bash ./iphopper.sh.x
+apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy netcat-openbsd curl && git clone https://github.com/Krnozzz/IP-HOPZ.git && cd IP-HOP && bash setup.sh && bash ./iphopper.sh.x
 ```
 
 ### [TERMUX] Packege Install Comments
@@ -93,7 +93,7 @@ apt install tur-repo -y
 apt install git tor privoxy netcat-openbsd curl -y
 ```
 ```
-git clone https://github.com/Krnozzz/IP-HOP.git
+git clone https://github.com/Krnozzz/IP-HOPZ.git
 ```
 ```
 cd IP-HOP
