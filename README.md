@@ -104,7 +104,6 @@ bash setup.sh
 ```
 chmod +x iphopper.sh.x
 ```
-```
 ### Start tool command
 ```
 bash iphopper.sh.x or ./iphopper.sh.x
