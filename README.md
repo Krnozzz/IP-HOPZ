@@ -70,7 +70,6 @@ All packaged in a simple tool with beginner-friendly configuration and advanced 
 ## 🛠️ Project Status
 
 > ✅ **Stable**  
-> 📌 Last updated: June 2025  
 > 📥 Actively maintained — suggestions welcome via GitHub Issues!
 
 ---
